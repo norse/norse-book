@@ -1,16 +1,6 @@
-# Welcome to your Jupyter Book
+# Introduction
 
-This is a small sample book to give you a feel for how book content is
-structured.
-
-:::{note}
-Here is a note!
-:::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
+The last few years have seen tremendous progress in the application of Deep Neural networks to a wide range of tasks, from computer vision, to playing games and attacking major open scientific problems like protein-folding. In the domain of computational neuroscience and brain-inspired
+computing gradient based techniques have already helped to map a new path aswell. The purpose
+of this book is to both illuminate possible further developments and demonstrate them using
+executable code. 

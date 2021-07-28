@@ -4,5 +4,7 @@
 format: jb-book
 root: intro
 chapters:
+- file: a-first-look-at-norse
+- file: training-your-first-network
 - file: markdown
 - file: notebooks
